@@ -1,0 +1,8 @@
+C:\Users\CRIZMA MEGA STORE\documents\visual studio 2015\Projects\projectnouran\projectnouran\bin\Debug\projectnouran.exe.config
+C:\Users\CRIZMA MEGA STORE\documents\visual studio 2015\Projects\projectnouran\projectnouran\bin\Debug\projectnouran.exe
+C:\Users\CRIZMA MEGA STORE\documents\visual studio 2015\Projects\projectnouran\projectnouran\bin\Debug\projectnouran.pdb
+C:\Users\CRIZMA MEGA STORE\documents\visual studio 2015\Projects\projectnouran\projectnouran\obj\Debug\projectnouran.Form1.resources
+C:\Users\CRIZMA MEGA STORE\documents\visual studio 2015\Projects\projectnouran\projectnouran\obj\Debug\projectnouran.Properties.Resources.resources
+C:\Users\CRIZMA MEGA STORE\documents\visual studio 2015\Projects\projectnouran\projectnouran\obj\Debug\projectnouran.csproj.GenerateResource.Cache
+C:\Users\CRIZMA MEGA STORE\documents\visual studio 2015\Projects\projectnouran\projectnouran\obj\Debug\projectnouran.exe
+C:\Users\CRIZMA MEGA STORE\documents\visual studio 2015\Projects\projectnouran\projectnouran\obj\Debug\projectnouran.pdb
